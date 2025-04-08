@@ -28,3 +28,6 @@
   - `input.txt` (≥2000 символов)
   - `largeText.txt` (>100000 символов)
 
+## Диаграммы:
+![topBigrams.png](src/main/resources/FileOutput/topBigrams.png)
+![topLetters.png](src/main/resources/FileOutput/topLetters.png)
